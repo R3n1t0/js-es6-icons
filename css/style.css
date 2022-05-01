@@ -1,0 +1,40 @@
+body{
+  background-color: #dddddd;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+header .up{
+  background-color: white;
+  color: #29B1DD;
+  height: 80px;
+}
+
+header .down{
+  background-color: #29B1DD;
+  color: white;
+  height: 80px;
+}
+
+header .form-select{
+  width: 100px;
+}
+
+.rl-card{
+  background-color: white;
+  border-radius: 10px;
+  width: 200px;
+  height: 100px;
+  box-shadow: 2px 2px #888888;
+}
+
+animals{
+  color: #0000ff;
+}
+
+vegetables{
+  color: #FFA500;
+}
+
+vegetables{
+  color: #800080;
+}
