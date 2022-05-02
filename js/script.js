@@ -49,7 +49,7 @@ const changeSelect = (event) => {
 
 
 /**************
- RENDER PAGE
+ 
  **************/
 const container = document.querySelector(".container");
 const select = document.querySelector(".form-select")
@@ -64,5 +64,5 @@ icons.forEach( icon => {
   }
 })
 
-// 1.
+
 printIcons(icons);
